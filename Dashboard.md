@@ -1,4 +1,5 @@
 #Objective Problem
+
 To boost conversion and engagement in the ruparupa platform, we need to understand the behaviour and the profile of our customer by classifying a customer to a certain
 category.
 
